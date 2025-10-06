@@ -1,0 +1,17 @@
+D:\CCMLoadCountService\CCMLoadCountService\bin\Debug\CCMLoadCountService.exe.config
+D:\CCMLoadCountService\CCMLoadCountService\bin\Debug\CCMLoadCountService.exe
+D:\CCMLoadCountService\CCMLoadCountService\bin\Debug\CCMLoadCountService.pdb
+D:\CCMLoadCountService\CCMLoadCountService\bin\Debug\log4net.dll
+D:\CCMLoadCountService\CCMLoadCountService\obj\Debug\Interop.OPCAutomation.dll
+D:\CCMLoadCountService\CCMLoadCountService\obj\Debug\CCMLoadCountService.csproj.ResolveComReference.cache
+D:\CCMLoadCountService\CCMLoadCountService\obj\Debug\CCMLoadCountService.exe
+D:\CCMLoadCountService\CCMLoadCountService\obj\Debug\CCMLoadCountService.pdb
+D:\TM\CCMLoadCountService\CCMLoadCountService\bin\Debug\CCMLoadCountService.exe.config
+D:\TM\CCMLoadCountService\CCMLoadCountService\bin\Debug\CCMLoadCountService.exe
+D:\TM\CCMLoadCountService\CCMLoadCountService\bin\Debug\CCMLoadCountService.pdb
+D:\TM\CCMLoadCountService\CCMLoadCountService\bin\Debug\log4net.dll
+D:\TM\CCMLoadCountService\CCMLoadCountService\obj\Debug\CCMLoadCountService.csprojResolveAssemblyReference.cache
+D:\TM\CCMLoadCountService\CCMLoadCountService\obj\Debug\Interop.OPCAutomation.dll
+D:\TM\CCMLoadCountService\CCMLoadCountService\obj\Debug\CCMLoadCountService.csproj.ResolveComReference.cache
+D:\TM\CCMLoadCountService\CCMLoadCountService\obj\Debug\CCMLoadCountService.exe
+D:\TM\CCMLoadCountService\CCMLoadCountService\obj\Debug\CCMLoadCountService.pdb
