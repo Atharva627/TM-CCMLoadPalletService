@@ -77,7 +77,7 @@ namespace AtsWmsCCMCountReportService
                 while (!cancellationToken.IsCancellationRequested)
                 {
                     await details.StartOperationAsync(cancellationToken).ConfigureAwait(false);
-                    await Task.Delay(TimeSpan.FromSeconds(10), cancellationToken).ConfigureAwait(false);
+                    await Task.Delay(TimeSpan.FromMinutes(1), cancellationToken).ConfigureAwait(false);
                 }
             }
             catch(OperationCanceledException)

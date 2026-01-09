@@ -15,9 +15,9 @@ namespace AtsWmsCCMCountReportService
         #region Data Tables
         ats_wms_ccm_pallet_count_detailsDataTable ats_wms_ccm_pallet_count_detailsDataTableDT = null;
         ats_wms_ccm_pallet_count_detailsDataTable ats_wms_ccm_pallet_count_detailsDataTableDT1 = null;
-        ats_wms_ccm_pallet_count_detailsDataTable ats_wms_ccm_pallet_count_detailsDataTableDT2 = null;
+       // ats_wms_ccm_pallet_count_detailsDataTable ats_wms_ccm_pallet_count_detailsDataTableDT2 = null;
         ats_wms_ccm_pallet_count_detailsDataTable ats_wms_ccm_pallet_count_detailsDataTableDT3 = null;
-        ats_wms_ccm_pallet_count_detailsDataTable ats_wms_ccm_pallet_count_detailsDataTableGetValues = null;
+        //ats_wms_ccm_pallet_count_detailsDataTable ats_wms_ccm_pallet_count_detailsDataTableGetValues = null;
         ats_wms_ccm_pallet_count_report_detailsDataTable ats_wms_ccm_pallet_count_report_detailsDataTableDT = null;
         //ats_wms_ccm_detailsDataTable ats_wms_ccm_detailsDataTableDT = null;
         ats_wms_master_shift_detailsDataTable ats_wms_master_shift_detailsDataTableDT = null;
@@ -395,7 +395,7 @@ namespace AtsWmsCCMCountReportService
                                 {
                                     Log.Debug("No change occured in the values of tags");
                                     await Task.Delay(1000, cancellationToken);
-                                    Log.Debug("Operation finished successfully.");
+                                   // Log.Debug("Operation finished successfully.");
                                     continue;
                                 }
 
